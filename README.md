@@ -20,3 +20,19 @@
 - Redux Toolkit: A library to simplify Redux store setup and manage state.
 
 ## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/f93e3fa9-5cd2-4034-bc31-2fa156444986)
+
+![screen02](https://github.com/user-attachments/assets/29028475-370b-4065-a866-3e55247f793c)
+
+![screen03](https://github.com/user-attachments/assets/4f1d31d7-cd5c-4a95-807c-7b6390163697)
+
+
+
+
+
+
+
+
+
+
